@@ -3,3 +3,5 @@
 #EXTINF:-1 Group-title="ดิจิทัลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/1f3fcecb-9fbe-44fe-9e46-61c68ededb56.png",ช่อง3
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 
+#EXTINF:-1 Group-title="ดิจิทัลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQy4K8uTw0Be2CjBnAi3y4clWIyja1TgtmDtbks3s7TzvGhWU5s",ช่อง5
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
